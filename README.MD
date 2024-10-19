@@ -2,7 +2,7 @@
 
 * Docker endorsed course from Udemy titled: **Docker Mastery: with Kubernetes +Swarm from a Docker Captain**
 * Weblink: <https://www.udemy.com/course/docker-mastery/>
-* **My certificate:
+* **My certificate**:
     * **view online: https://udemy-certificate.s3.amazonaws.com/image/UC-2920ece0-a013-4cb7-a2e7-029278be6e23.jpg?v=1729345667000**
     * **download to pdf: https://udemy-certificate.s3.amazonaws.com/pdf/UC-2920ece0-a013-4cb7-a2e7-029278be6e23.pdf**
 

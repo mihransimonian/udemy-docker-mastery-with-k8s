@@ -1,9 +1,54 @@
 # Description
 This file contains the commands used in assingments, except for those that were bigger, those are referred to on Github itself and Dockerhub where applicable.
 
-
 ## Contents
-[ToC]
+- [Description](#description)
+  * [Contents](#contents)
+- [4.22 assignment - manage multiple containers](#422-assignment---manage-multiple-containers)
+  * [description](#description)
+  * [commands](#commands)
+- [4.31 assignment - cli-testing](#431-assignment---cli-testing)
+  * [assignment](#assignment)
+  * [commands](#commands-1)
+- [4.34 assignment - dns round robin](#434-assignment---dns-round-robin)
+  * [assignment](#assignment-1)
+  * [commands](#commands-2)
+- [5.43 assignment - dockerfile](#543-assignment---dockerfile)
+  * [assignment](#assignment-2)
+  * [commands](#commands-3)
+- [6.52 assignment - database upgrades](#652-assignment---database-upgrades)
+  * [assignment](#assignment-3)
+  * [commands](#commands-4)
+- [6.56 assignment - bind mounts](#656-assignment---bind-mounts)
+  * [assignment](#assignment-4)
+  * [commands](#commands-5)
+- [7.63 assignment - compose 1](#763-assignment---compose-1)
+  * [assignment](#assignment-5)
+  * [commands](#commands-6)
+- [7.67 assignment - compose 2](#767-assignment---compose-2)
+  * [assignment](#assignment-6)
+  * [commands](#commands-7)
+- [8.73 assignment - create a 3-node Swam](#873-assignment---create-a-3-node-swam)
+  * [assignment](#assignment-7)
+  * [configuration](#configuration)
+  * [commands](#commands-8)
+- [9.77 assignment - multinode webapp](#977-assignment---multinode-webapp)
+  * [assignment](#assignment-8)
+  * [commands](#commands-9)
+- [9.83 assignment - create a stack with secrets and deploy](#983-assignment---create-a-stack-with-secrets-and-deploy)
+  * [assignment](#assignment-9)
+  * [commands](#commands-10)
+- [11.93 assignment - secure docker with TLS](#1193-assignment---secure-docker-with-tls)
+  * [assignment](#assignment-10)
+  * [online tooling](#online-tooling)
+  * [commands](#commands-11)
+- [22 section assignment - Github Actions](#22-section-assignment---github-actions)
+  * [assignment](#assignment-11)
+    + [assignment: easy mode](#assignment--easy-mode)
+    + [assignment: advanced mode](#assignment--advanced-mode)
+  * [result](#result)
+  * [commands](#commands-12)
+    + [specific deviations or other notes](#specific-deviations-or-other-notes)
 
 
 # 4.22 assignment - manage multiple containers
@@ -350,10 +395,7 @@ Assignment: Advanced Mode
 ### assignment: advanced mode
 The [bretfisher/voting app repo](https://github.com/BretFisher/example-voting-app), which you've seen in this course, is a "mono repo" of three apps in subdirectories. You can fork it and start to add GitHub Actions for each app. I've already got some basics in there like building images, so you can start with them or delete the .github directory and start fresh!
 
-## setup
-* Using VSCode on Windows, or website where mentioned
-
-## actions
+## result
 * using the website, forked the github 'advanced repo' [bretfisher/voting app repo](https://github.com/BretFisher/example-voting-app) into [mihransimonian/udemy-docker-masterycourse-assignment-github-actions](https://github.com/mihransimonian/udemy-docker-masterycourse-assignment-github-actions)
 
 * I iteratively improved the workflows in [branch dev-workflow](https://github.com/mihransimonian/udemy-docker-masterycourse-assignment-github-actions/tree/dev-workflow)

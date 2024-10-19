@@ -7,9 +7,10 @@
 ## Repository Description
 
 * This repository contains the code files I produced during my tests in the course and gives an idea of what I've learned during this course.
-* foldernames follow `section.lecture-description`, note section and lecturenumber might differ in the future as the course keeps being developed
-* Github link from course: <https://github.com/BretFisher/udemy-docker-mastery>
+* file [`assignments_commands.md`](assignments_commands.md) contains commands used in assignments, or references to other folders / repositories where applicable.
+* foldernames follow `section.lecture-description`, note section and lecturenumber might differ in the future as the course keeps being developed.
+* Github link from course: <https://github.com/BretFisher/udemy-docker-mastery>.
 
 ## Course Description
 
-* The text in file <> has been copied from the Udemy website on 7th of October 2024.
+* The text in file [`udemy_course_description.md`](udemy_course_description.md) has been copied from the Udemy website on 7th of October 2024.

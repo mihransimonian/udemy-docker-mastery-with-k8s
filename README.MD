@@ -7,7 +7,8 @@
 ## Repository Description
 
 * This repository contains the code files I produced during my tests in the course and gives an idea of what I've learned during this course.
-* file [`assignments_commands.md`](assignments_commands.md) contains commands used in assignments, or references to other folders / repositories where applicable.
+* file [`assignment_commands.md`](assignment_commands.md) contains commands used in assignments, or references to other folders / repositories where applicable.
+* I've produced github actions in another repository see [branch dev-workflow](https://github.com/mihransimonian/udemy-docker-masterycourse-assignment-github-actions/tree/dev-workflow) with [end result](https://github.com/mihransimonian/udemy-docker-masterycourse-assignment-github-actions/actions/runs/11314833370)
 * foldernames follow `section.lecture-description`, note section and lecturenumber might differ in the future as the course keeps being developed.
 * Github link from course: <https://github.com/BretFisher/udemy-docker-mastery>.
 
